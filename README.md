@@ -24,5 +24,8 @@ This is the Access Code 2.1 Repo for the Robin Hood Hackathon. Please fork this 
 *  [SendGrid](https://github.com/danysantiago/sendgrid-android)
 
 
+#### Judging Criteria
+TBD
+
 #### Submission Details  
 Please fork this repo for your own projects this weekend so we can easily find them on Monday.  (Note: this was initialized with a .gitignore that you may need to change).  
