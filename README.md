@@ -12,7 +12,7 @@ This is the Access Code 2.1 Repo for the Robin Hood Hackathon. Please fork this 
 11:00am: Start coding!  
 1:00am: Lunch  
   
-Sunday  
+###### Sunday  
 9:30 - 10:00am: Space setup, Check-in  
 1:00pm: Lunch  
 3:00pm: Practice Demos with Mentor Feedback  
@@ -20,7 +20,7 @@ Sunday
 4:30pm: Demos  
 5:30pm: Thank Yous  
   
-Monday  
+###### Monday  
 6:00 - 8:00pm: Final Demos / Judges Evaluations  
 
 
