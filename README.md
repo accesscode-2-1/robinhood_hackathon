@@ -1,7 +1,7 @@
 # Access Code 2.1 -- Robin Hood Hackathon
 ## Aug 1 - Aug 3  
  
-This is the Access Code 2.1 Repo for the Robin Hood Hackathon. Please fork this repo for your own projects this weekend.  (Note: this was initialized with a .gitignore that you may need to change).  
+This is the Access Code 2.1 Repo for the Robin Hood Hackathon. Please fork this repo for your own projects this weekend so we can easily find them on Monday.  (Note: this was initialized with a .gitignore that you may need to change).  
   
 Taking pictures? Tweeting? Find us!  
 We are everywhere! [@C4Qnyc](https://twitter.com/c4qnyc), [@RobinHoodNYC](https://twitter.com/RobinHoodNYC), [@AuntBertha](https://twitter.com/AuntBertha), [@SingleStop](https://twitter.com/SingleStop)  
