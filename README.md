@@ -1,11 +1,28 @@
 # Access Code 2.1 -- Robin Hood Hackathon
-## July 31 - Aug 3  
+## Aug 1 - Aug 3  
  
 This is the Access Code 2.1 Repo for the Robin Hood Hackathon. Please fork this repo for your own projects this weekend.  (Note: this was initialized with a .gitignore that you may need to change).  
 
 #### Intro  
 
 #### Schedule  
+###### Saturday  
+9:30 - 10:00am: Check-in, Breakfast  
+10:00 - 11:00am: Introductions  
+11:00am: Start coding!  
+1:00am: Lunch  
+  
+Sunday  
+9:30 - 10:00am: Space setup, Check-in  
+1:00pm: Lunch  
+3:00pm: Practice Demos with Mentor Feedback  
+4:00pm: Polishing Demos  
+4:30pm: Demos  
+5:30pm: Thank Yous  
+  
+Monday  
+6:00 - 8:00pm: Final Demos / Judges Evaluations  
+
 
 #### Resources  
 
