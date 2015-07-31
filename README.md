@@ -13,18 +13,18 @@ We're also [#RHfunded](https://twitter.com/hashtag/RHFunded?src=hash) [#QueensTe
 ### Program  
 
 ###### Saturday  
-9:30 - 10:00am: Check-in, Breakfast  
-10:00 - 11:00am: Introductions  
+9:30am: Check-in + Breakfast  
+10:00: Introductions  
 11:00am: Start coding!  
-1:00am: Lunch  
+1:00pm: Lunch  
+2:00pm - 6:00pm: Product Office Hours
   
 ###### Sunday  
-9:30 - 10:00am: Space setup, Check-in  
+10:00am - 1:00PM: Product Office Hours
 1:00pm: Lunch  
 3:00pm: Practice Demos with Mentor Feedback  
 4:00pm: Polishing Demos  
 4:30pm: Demos  
-5:30pm: Thank Yous  
   
 ###### Monday  
 6:00 - 8:00pm: Final Demos / Judges Evaluations  
