@@ -8,7 +8,13 @@ We are everywhere! [@C4Qnyc](https://twitter.com/c4qnyc), [@RobinHoodNYC](https:
 We're also [#RHfunded](https://twitter.com/hashtag/RHFunded?src=hash) [#QueensTech](https://twitter.com/hashtag/QueensTech?src=hash) [#AndroidDev](https://twitter.com/hashtag/AndroidDev?src=hash) [#Android](https://twitter.com/hashtag/Android?src=hash) [#hack4good]() [#hackathon](https://twitter.com/hashtag/hack4good?src=hash)
 
 
-### Intro  
+### Final Apps!
+[Study Squad](https://github.com/lukesterlee/EducationApp)  
+[feNYC](https://github.com/alizinha/robinhood_hackathon)  
+[Youth Connect](https://github.com/GMSyrimis/robinhood_hackathon)  
+[One More Chance](https://github.com/abassawo/robinhood_hackathon)   
+[OMG](https://github.com/charlyn23/OMG)  
+[meshNYC](https://github.com/ramonaharrison/meshNYC)  
 
 ### Program  
 
